@@ -1,15 +1,11 @@
 {
-	"main": "dist/index.js",
-	"license": "MIT",
-	"devDependencies": {
-		"@types/react": "^16.8"
+	"framer": {
+		"id": "10ecfae2-2060-4533-8d2d-4f30517138fd"
 	},
 	"peerDependencies": {
-		"framer": "^1.0",
-		"react": "^16.8"
+		"framer": "^1"
 	},
-	"framer": {
-		"id": "0abb5b33-4201-4f2a-8778-cbe48e24ec02"
-	},
-	"author": "Elliot Nolten"
+	"dependencies": {
+		"@appbaseio/reactivesearch": "^3.13.1"
+	}
 }

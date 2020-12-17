@@ -1,0 +1,17 @@
+{
+  "files" : {
+    "build/index.js" : {
+      "sha1" : "mzv7vIMWpkbCJT8W4jKw9S5/dRM=",
+      "size" : 7050
+    },
+    "code/App.tsx" : {
+      "sha1" : "y/0dwgskXda4ZQCVHrMIuNPFYwY=",
+      "size" : 1040
+    },
+    "design/document.json" : {
+      "sha1" : "hcsNaAAnFJEzopxURXdRPQwAt4A=",
+      "size" : 683
+    }
+  },
+  "uuid" : "544A518F-3BF7-4E75-8654-DC875040AE77"
+}

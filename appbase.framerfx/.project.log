@@ -1,0 +1,52 @@
+[2020-12-17 15:04:00.4840] - INFO - Reading from /Users/elliot/Code/Appbase-Framer/appbase.framerfx (origin); preserving existing contents of project folder: true
+[2020-12-17 15:04:00.4880] - INFO - Done reading
+[2020-12-17 15:04:00.4880] - INFO - Marking changed: false
+[2020-12-17 15:04:00.5320] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-12-17 15:04:01.3850] - INFO - Project server PID: 10189
+[2020-12-17 15:04:01.5520] - ERROR - Unhandled Rejection at: Promise Promise {
+[2020-12-17 15:04:01.5520] - ERROR -   <rejected> Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/elliot/Code/Appbase-Framer/appbase.framerfx/package.json'
+[2020-12-17 15:04:01.5520] - ERROR -       at Project.<anonymous> (/Applications/Framer.app/Contents/Resources/Server/lib/project.js:1238:23)
+[2020-12-17 15:04:01.5520] - ERROR -       at Generator.throw (<anonymous>)
+[2020-12-17 15:04:01.5520] - ERROR -       at rejected (/Applications/Framer.app/Contents/Resources/Server/lib/project.js:6:65)
+[2020-12-17 15:04:01.5520] - ERROR - } reason: Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/elliot/Code/Appbase-Framer/appbase.framerfx/package.json'
+[2020-12-17 15:04:01.5520] - ERROR -     at Project.<anonymous> (/Applications/Framer.app/Contents/Resources/Server/lib/project.js:1238:23)
+[2020-12-17 15:04:01.5520] - ERROR -     at Generator.throw (<anonymous>)
+[2020-12-17 15:04:01.5520] - ERROR -     at rejected (/Applications/Framer.app/Contents/Resources/Server/lib/project.js:6:65)
+[2020-12-17 15:04:01.5540] - ERROR - This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+[2020-12-17 15:04:01.5540] - ERROR - Error: Error updating package.json Error: ENOENT: no such file or directory, open '/Users/elliot/Code/Appbase-Framer/appbase.framerfx/package.json'
+[2020-12-17 15:04:01.5540] - ERROR -     at Project.<anonymous> (/Applications/Framer.app/Contents/Resources/Server/lib/project.js:1238:23)
+[2020-12-17 15:04:01.5540] - ERROR -     at Generator.throw (<anonymous>)
+[2020-12-17 15:04:01.5540] - ERROR -     at rejected (/Applications/Framer.app/Contents/Resources/Server/lib/project.js:6:65)
+[2020-12-17 15:04:02.3390] - ERROR - Thu, 17 Dec 2020 14:04:02 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer.app/Contents/Resources/Server/lib/server.js:108:17
+[2020-12-17 15:04:02.3550] - INFO - GET 200 /design/document.json 683 B (4ms)
+[2020-12-17 15:04:02.5080] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2020-12-17 15:04:02.5460] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:02.5640] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2020-12-17 15:04:02.6170] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:02.6670] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:02.7250] - ERROR - yarn list: No lockfile in this directory. Run `yarn install` to generate one.
+[2020-12-17 15:04:02.8330] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:03.0440] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:03.3160] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:03.3170] - INFO - Installing dependencies…
+[2020-12-17 15:04:03.5970] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:03.5970] - INFO - Installing dependencies - DONE. Took 281ms
+[2020-12-17 15:04:03.6470] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2020-12-17 15:04:03.8610] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:09.2260] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-12-17 15:04:09.2260] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-12-17 15:04:09.2260] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-12-17 15:04:09.2380] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-12-17 15:04:17.9110] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:17.9470] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:18.1090] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:18.1820] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:18.2220] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:04:18.3770] - ERROR - error running yarn: {"type":"warning","data":"package.json: No license field"}
+[2020-12-17 15:06:08.7870] - DEBUG - [Save session: 1] Started, operation: saveOperation
+[2020-12-17 15:06:08.7880] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-12-17 15:06:08.7900] - DEBUG - [Save session: 1] Before waitUsingRecursiveRunLoop
+[2020-12-17 15:06:08.7900] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-12-17 15:06:08.7900] - DEBUG - [Save session: 1] Completed waitUsingRecursiveRunLoop
+[2020-12-17 15:06:08.7920] - INFO - Marking changed: false
+[2020-12-17 15:06:08.7940] - DEBUG - [Save session: 1] Completed super.save
